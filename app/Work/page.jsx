@@ -249,7 +249,8 @@ export default function AboutPage() {
                   src={work.image}
                   alt={work.title}
                   fill
-                  className="object-cover rounded-t-lg"
+                  className="object-contain rounded-t-lg"
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 70vw"
                 />
               </div>
               <div className="p-6">

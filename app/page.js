@@ -216,7 +216,7 @@ export default function AdvancedHomePage() {
                 <span className="absolute inset-0 bg-emerald-400 opacity-0 group-hover:opacity-10 transition-opacity duration-300"></span>
               </button>
               
-              <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="relative overflow-hidden group bg-emerald-400/10 text-emerald-400 px-8 py-4 rounded-lg font-mono text-lg hover:bg-emerald-400/20 transition-all duration-300 border border-transparent hover:border-emerald-400/30" > Resume </a>
+              <a href="/jimmy patel resume.pdf" target="_blank" rel="noopener noreferrer" className="relative overflow-hidden group bg-emerald-400/10 text-emerald-400 px-8 py-4 rounded-lg font-mono text-lg hover:bg-emerald-400/20 transition-all duration-300 border border-transparent hover:border-emerald-400/30" > Resume </a>
               
               <a 
                 href="/Contact" 
